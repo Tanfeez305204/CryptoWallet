@@ -4,8 +4,7 @@
 This project focuses on automating the testing of a Crypto Wallet API. Its core functionality includes user registration, login, and transaction processing. The project addresses the need for secure and reliable testing in the rapidly evolving crypto industry.
 
 ## Project Type
-Fullstack
-
+Api testing
 
 ## Video Walkthrough of the Project
 Attach a very short video walkthrough of all features [[(https://youtu.be/RpKhu9PSb8Q)]
